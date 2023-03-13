@@ -1,0 +1,1 @@
+import{j as r}from"./index-ad504ac1.js";import{C as e}from"./index-258888cf.js";function c(){return r("div",{className:"user-account",children:r(e,{title:"User Account",type:"inner",children:r("i",{children:"In progress"})})})}export{c as default};

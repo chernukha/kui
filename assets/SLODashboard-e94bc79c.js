@@ -1,0 +1,1 @@
+import{j as r}from"./index-ad504ac1.js";import{C as a}from"./index-258888cf.js";function i(){return r("div",{className:"slo-dashboard",children:r(a,{title:"SLO",type:"inner",children:r("i",{children:"In progress"})})})}export{i as default};

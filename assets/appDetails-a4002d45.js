@@ -1,0 +1,1 @@
+import{aZ as r,j as a}from"./index-ad504ac1.js";import{C as p}from"./index-258888cf.js";function i(){const{appId:e}=r();return a("div",{className:"app-details",children:a(p,{title:e?"App Details":"Create app",type:"inner",children:a("i",{children:"In progress"})})})}export{i as default};
