@@ -1,0 +1,1 @@
+import{j as e}from"./index-abdd7e16.js";import{C as n}from"./index-3b542a01.js";function t(){return e("div",{className:"sys-intelligence",children:e(n,{title:"System Intelligence",type:"inner",children:e("i",{children:"In progress"})})})}export{t as default};

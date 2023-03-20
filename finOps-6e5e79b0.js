@@ -1,0 +1,1 @@
+import{j as r}from"./index-abdd7e16.js";import{C as i}from"./index-3b542a01.js";function s(){return r("div",{className:"fin-ops",children:r(i,{title:"FinOps",type:"inner",children:r("i",{children:"In progress"})})})}export{s as default};
